@@ -86,3 +86,4 @@ Live stream → Frame grabber → YOLOv8 → Person count → Density classifier
 - Trigger an **alert** by showing a crowd image to the webcam
 - Explain: bounding boxes = YOLO detections, color = density level
 # crowdsafe
+# dds
